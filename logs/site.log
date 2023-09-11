@@ -1,7 +1,0 @@
-192.168.64.1 - - [11/Sep/2023:16:28:04 +0900] "GET / HTTP/1.1" 500 988206 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-192.168.64.1 - - [11/Sep/2023:16:28:05 +0900] "GET /favicon.ico HTTP/1.1" 200 - "http://localhost:49081/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-192.168.64.1 - - [11/Sep/2023:16:30:52 +0900] "GET / HTTP/1.1" 200 27515 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-192.168.64.1 - - [11/Sep/2023:16:30:55 +0900] "GET / HTTP/1.1" 200 27515 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-192.168.64.1 - - [11/Sep/2023:16:31:43 +0900] "-" 408 - "-" "-"
-192.168.64.1 - - [11/Sep/2023:16:32:36 +0900] "-" 408 - "-" "-"
-192.168.64.1 - - [11/Sep/2023:16:32:36 +0900] "-" 408 - "-" "-"
